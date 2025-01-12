@@ -1,7 +1,7 @@
 # Calculator in the Boatrace Venture Project
 
 [![Build Status](https://github.com/BoatraceVentureProject/Calculator/workflows/tests/badge.svg)](https://github.com/BoatraceVentureProject/Calculator/actions?query=workflow%3Atests)
-[![codecov](https://codecov.io/gh/BoatraceVentureProject/Calculator/graph/badge.svg?token=T0762ITPKV)](https://codecov.io/gh/BoatraceVentureProject/Calculator)
+[![codecov](https://codecov.io/gh/BoatraceVentureProject/Calculator/graph/badge.svg?token=osBrpGVA04)](https://codecov.io/gh/BoatraceVentureProject/Calculator)
 [![Latest Stable Version](https://poser.pugx.org/bvp/calculator/v/stable)](https://packagist.org/packages/bvp/calculator)
 [![Latest Unstable Version](https://poser.pugx.org/bvp/calculator/v/unstable)](https://packagist.org/packages/bvp/calculator)
 [![License](https://poser.pugx.org/bvp/calculator/license)](https://packagist.org/packages/bvp/calculator)
